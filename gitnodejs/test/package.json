@@ -1,0 +1,21 @@
+{
+  "name": "test-wwj",
+  "version": "1.0.2",
+  "description": "my test function",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github"
+  },
+  "keywords": [
+    "my",
+    "first",
+    "test",
+    "module"
+  ],
+  "author": "wangwujun",
+  "license": "ISC"
+}
